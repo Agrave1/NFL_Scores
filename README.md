@@ -1,4 +1,4 @@
-# Understanding the various factors that affect the gane and betting outcomes of NFL games
+# Understanding the various factors that affect the outcomes of the game and betting lines for the NFL
 #### Anthony Gravink
 ### Business Problem
 Help sportsbooks and sports bettors understand various factors that influence the total score of a game with it's betting significance
