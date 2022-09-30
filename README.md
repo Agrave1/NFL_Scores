@@ -22,3 +22,4 @@ https://www.kaggle.com/datasets/tobycrabtree/nfl-scores-and-betting-data?resourc
 ## Limitations/Recommendations
 - One limitation is the dataset didn't contain any data on the teams playing in that game, such as record, points scored per game, points allowed per game, and others that would help explain more about the scoring outcome
 - Include a column specifically denoting whether the line was over or under and whether the soread favorite covered or not. Looking at the data one can figure that out, but having seperate columns would help with analysis
+- help
