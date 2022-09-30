@@ -10,6 +10,8 @@ https://www.kaggle.com/datasets/tobycrabtree/nfl-scores-and-betting-data?resourc
 - Imputed values based on frequency for the over/under line because not many values were empty, and most NFL score totals are around 45
 - Dropped schedule date column because each value was unique and important data such as year and regular season week were contained in other columns
 - Performed various machine learning models to find how much variance could be explained on the test data 
+## Visualizations
+![sample image](Average Total Score NFL.png)
 ## Results
 - Away team score had a higher impact on who was favorite and the spread than the home team
 - Wind speed has a negative correlation with total score. Perhaps the influence of weather on the game is why home team has a lesser impact on the spread than away teams.
