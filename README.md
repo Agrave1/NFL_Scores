@@ -21,7 +21,7 @@ https://www.kaggle.com/datasets/tobycrabtree/nfl-scores-and-betting-data?resourc
   - I used a linear regression model combined with a pca transformer to predict mean absolute error, root mean squared error, and R2 score
   - I incorporated a pca transformer to speed up my machine learning by reducing dimensions without losing any relevant info
   - The mean absolute error was relatively high, with the average model prediction for total score being off by 11 points. However, this is less than one touchdown off per team
-  - The R2 score only predicted 5% accuracy which is very low, but football is a complicated game with an immense amount of variables. This dataset was very limitied, so predicting 5% is a good starting point
+  - The R2 score only explained 3% of the overall variance which is very low, but football is a complicated game with an immense amount of variables. This dataset was very limitied, so predicting 3% is a good starting point
 
 ## Results
 - Away team score had a higher impact on who was favorite and the spread than the home team
